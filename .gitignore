@@ -4,3 +4,6 @@
 obj/
 win_x64/
 user/
+
+Game.dll
+Game.pdb
