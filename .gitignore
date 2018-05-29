@@ -1,0 +1,6 @@
+*.log
+.vscode/
+.vs/
+obj/
+win_x64/
+user/
